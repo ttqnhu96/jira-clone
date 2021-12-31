@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jira-clone/static/css/main.ac69a721.chunk.css",
+    "main.js": "/jira-clone/static/js/main.68f360ab.chunk.js",
+    "main.js.map": "/jira-clone/static/js/main.68f360ab.chunk.js.map",
+    "runtime-main.js": "/jira-clone/static/js/runtime-main.0a790f46.js",
+    "runtime-main.js.map": "/jira-clone/static/js/runtime-main.0a790f46.js.map",
+    "static/css/2.97a13557.chunk.css": "/jira-clone/static/css/2.97a13557.chunk.css",
+    "static/js/2.9c71aadd.chunk.js": "/jira-clone/static/js/2.9c71aadd.chunk.js",
+    "static/js/2.9c71aadd.chunk.js.map": "/jira-clone/static/js/2.9c71aadd.chunk.js.map",
+    "static/js/3.7534c875.chunk.js": "/jira-clone/static/js/3.7534c875.chunk.js",
+    "static/js/3.7534c875.chunk.js.map": "/jira-clone/static/js/3.7534c875.chunk.js.map",
+    "index.html": "/jira-clone/index.html",
+    "static/css/2.97a13557.chunk.css.map": "/jira-clone/static/css/2.97a13557.chunk.css.map",
+    "static/css/main.ac69a721.chunk.css.map": "/jira-clone/static/css/main.ac69a721.chunk.css.map",
+    "static/js/2.9c71aadd.chunk.js.LICENSE.txt": "/jira-clone/static/js/2.9c71aadd.chunk.js.LICENSE.txt",
+    "static/media/download.jfif": "/jira-clone/static/media/download.ef0b58c7.jfif",
+    "static/media/loading.gif": "/jira-clone/static/media/loading.5e01ee79.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a790f46.js",
+    "static/css/2.97a13557.chunk.css",
+    "static/js/2.9c71aadd.chunk.js",
+    "static/css/main.ac69a721.chunk.css",
+    "static/js/main.68f360ab.chunk.js"
+  ]
+}
